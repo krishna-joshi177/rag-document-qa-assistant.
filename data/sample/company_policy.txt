@@ -1,0 +1,12 @@
+Leave Policy
+Employees are entitled to 24 days of paid leave per calendar year.
+Unused leave of up to 10 days can be carried forward to the next year.
+
+Work From Home Policy
+Hybrid employees must work from office at least 3 days per week.
+WFH requests beyond this must be approved by the reporting manager.
+
+Certification Reimbursement
+Employees can claim 100% reimbursement for approved cloud certifications
+(AWS, Azure, GCP) after passing the exam. Claims must be raised within 30 days
+with the payment receipt and the certificate attached.
